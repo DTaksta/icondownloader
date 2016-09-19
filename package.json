@@ -1,0 +1,26 @@
+{
+  "name": "icondownloader",
+  "version": "1.0.2",
+  "description": "Png file downloader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "./node_modules/.bin/mocha --reporter spec ./tests/*.js"
+  },
+  "keywords": [
+    "image",
+    "file",
+    "scraping"
+  ],
+  "author": "Deon Takpuie",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "cheerio": "^0.22.0",
+    "fs": "0.0.1-security",
+    "mocha": "^3.0.2",
+    "path": "^0.12.7",
+    "request": "^2.74.0",
+    "url": "^0.11.0"
+  }
+}
