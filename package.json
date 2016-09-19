@@ -1,6 +1,6 @@
 {
 	"name": "icondownloader",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Png file downloader",
 	"main": "index.js",
 	"scripts": {
