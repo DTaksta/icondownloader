@@ -1,6 +1,5 @@
 NodeJS, ECMA6 program that downloads all png images from a static
 url - 'https://www.iconfinder.com/iconsets/social-media-2070'.
-Image types can be configured, and the url as well.
 
 *********************Pre-requisites****************
 Install NodeJS and the dependencies as listed in package.json
