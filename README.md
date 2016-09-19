@@ -3,6 +3,7 @@ url - 'https://www.iconfinder.com/iconsets/social-media-2070'.
 
 *********************Pre-requisites****************
 Install NodeJS and the dependencies as listed in package.json
+Then run npm install icondownloader
 
 **********************Operations*******************
 1)Running
