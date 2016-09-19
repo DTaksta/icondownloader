@@ -1,8 +1,8 @@
 {
 	"name": "icondownloader",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Png file downloader",
-	"main": "index.js",
+	"main": "main.js",
 	"scripts": {
 	"start": "node main.js",
 	"test": "./node_modules/.bin/mocha --reporter spec ./tests/*.js"
