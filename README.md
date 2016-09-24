@@ -12,9 +12,9 @@ npm start directory_to_save_into
 
 1.2 - Including in another project.
 var IconDownloader = require('./icondownloader.js');
-var instance = new IconDownloader('directory_path');
+var instance = new IconDownloader('directory_name');
 
 2)Testing
-Some unit test written using chai and runnable 
+Some unit tests written using chai and runnable 
 with mocha. Install them locally to the project and then execute:
 npm test
